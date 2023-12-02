@@ -1,0 +1,3 @@
+[submodule "image-captioning"]
+	path = image-captioning
+	url = https://huggingface.co/spaces/NicolasVana/image-captioning
